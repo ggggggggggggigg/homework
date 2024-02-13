@@ -1,0 +1,17 @@
+.timer{
+    display: flex;
+    
+}
+.timer div{
+    font-size: 5rem;
+}
+.b{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bb{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
