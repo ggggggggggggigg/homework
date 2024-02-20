@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    display: flex;
+    margin-left: 40rem;
+}
+
+.border1{
+margin-left: 1rem;
+}
+
+.border2{
+    margin-left: 1rem;
+}
+.wiki{
+    display: flex;
+    margin-right: 30rem;
+    margin-left: 1rem;
+}
